@@ -1,4 +1,6 @@
 {
   "latestVersion": "1.4.0",
-  "vsixUrl": "https://raw.githubusercontent.com/hcyxuxsh/Bee-hiveee/main/latest/b-hive-1.4.vsix"
+  "vsixUrl": "https://raw.githubusercontent.com/hcyxuxsh/Bee-hiveee/main/latest/b-hive-1.4.vsix",
+  "releaseNotes" : "1. New updated layout.
+					2. Custom Tools."
 }
